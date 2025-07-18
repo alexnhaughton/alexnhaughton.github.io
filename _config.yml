@@ -2,8 +2,8 @@ Sky# Config
 # ========================================================================================
 
 
-# url:                   https://alexhaughton.com
-# baseurl:               ''
+url:                   https://alexhaughton.com
+baseurl:               ''
 
 
 # General settings
