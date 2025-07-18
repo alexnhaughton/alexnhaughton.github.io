@@ -1,4 +1,4 @@
-# Config
+e# Config
 # ========================================================================================
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Telescopes | Science | Adventure
 
 # A list of keywords for your blog
 keywords:              []
